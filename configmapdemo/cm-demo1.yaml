@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: cm-demo1
 data:
-  data.1: helle
+  data.1: hello
   data.2: world
   config: |
     property.1=value-1
