@@ -14,7 +14,7 @@ GitHub地址：[https://github.com/cnych/kubernetes-learning/](https://github.co
 
 ![从Docker到Kubernetes进阶](http://sdn.haimaxy.com/covers/2018/4/21/c4082e0f09c746aa848279a2567cffed.png)
 
-之前一直有同学跟我说我 `Docker` 掌握得还可以，但是不知道怎么使用 `Kubernetes`，网上的其他关于 `Kubernetes` 的课程费用又太高，本书就是为你们准备的，当然如果你不了解 `Docker`，不了解 `Kubernetes`，都没有关系，我们会从 `Docker` 入门一步步深入，到 `Kubernetes` 的进阶使用的。所以大家完全没必要担心。
+之前一直有的同学跟我说我 `Docker` 掌握得还可以，但是不知道怎么使用 `Kubernetes`，网上的其他关于 `Kubernetes` 的课程费用又太高，本书就是为你们准备的，当然如果你不了解 `Docker`，不了解 `Kubernetes`，都没有关系，我们会从 `Docker` 入门一步步深入，到 `Kubernetes` 的进阶使用的。所以大家完全没必要担心。
 
 学完本课程以后，你将会对 `Docker` 和 `Kubernetes` 有一个更加深入的认识，我们会讲到：
 
