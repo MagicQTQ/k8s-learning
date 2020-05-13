@@ -2,12 +2,12 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: hook-demo1
+  name: hook-demo11
   labels:
     app: hook
 spec:
   containers:
-  - name: hook-demo1
+  - name: hook-demo11
     image: nginx
     ports:
     - name: webport
