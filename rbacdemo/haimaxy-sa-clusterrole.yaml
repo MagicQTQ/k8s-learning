@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ServiceAccount
 metadata:
-  name: haimaxy-sa2
+  name: haimaxy-sa21
   namespace: kube-system
 
 ---
@@ -12,7 +12,7 @@ metadata:
   name: haimaxy-sa2-clusterrolebinding
 subjects:
 - kind: ServiceAccount
-  name: haimaxy-sa2
+  name: haimaxy-sa21
   namespace: kube-system
 roleRef:
   kind: ClusterRole
