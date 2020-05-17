@@ -6,7 +6,7 @@ spec:
   template:
     metadata:
       labels:
-        app: svc1
+        app: svc11
     spec:
       containers:
       - name: svc1
@@ -43,7 +43,7 @@ spec:
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: svc3
+  name: svc31
 spec:
   template:
     metadata:
