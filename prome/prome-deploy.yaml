@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: prometheus
+  name: prometheus1
   namespace: kube-ops
   labels:
     app: prometheus
