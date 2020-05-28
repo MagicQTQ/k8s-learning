@@ -4,7 +4,7 @@ metadata:
   name: test-api
 spec:
   containers:
-  - name: test-api
+  - name: test-api1
     image: busybox
     imagePullPolicy: IfNotPresent
     command: ["/bin/sh", "-c", "env"]
@@ -12,7 +12,7 @@ spec:
 
 node01
 kube-dns CM
-cluster.local kubedns
+cluster.local kubedns1
 www.haimaxy.com -> node01
 
 kube-dns CM
