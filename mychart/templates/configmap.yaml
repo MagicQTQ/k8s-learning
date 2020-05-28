@@ -5,7 +5,7 @@ metadata:
   labels:
 {{- include "mychart.labels" . | indent 4}}
 data:
-  app: mychart
+  app: mychart2
   myvalue: {{ .Values.hello | default  "Hello World" | quote }}
   {{- $releaseName := .Release.Name }}
   {{- with .Values.course }}
